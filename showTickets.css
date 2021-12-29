@@ -1,0 +1,227 @@
+ul {
+    list-style: none;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .__name a {
+    width: 220px;
+    font-weight: 700;
+    color: #333;
+    float: left;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    text-decoration: none;
+    vertical-align: baseline;
+    background: 0 0;
+}
+
+.showtime-pill-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.showtime-pill-container {
+    margin: 8px;
+}
+
+.showtime-pill-container .showtime-pill {
+    border: 1px solid #999;
+    color: #4abd5d;
+    padding: 4px;
+    border-radius: 4px;
+    width: 96px;
+    height: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list {
+    zoom: 1;
+    border-bottom: 1px solid #eff1f3;
+    padding: 13px 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list>div:not(.payment-options-text) {
+    float: left;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .img-container {
+    display: none;
+    position: relative;
+    float: left;
+    width: 40px;
+    margin-top: 5px;
+}
+
+[class*=icon] {
+    display: inline-block;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details {
+    float: left;
+    margin-top: 5px;
+    padding-left: 5px;
+    display: table;
+    width: 100%;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .heart-it {
+    display: table-cell;
+    vertical-align: top;
+    width: 17px;
+    height: 17px;
+    padding-right: 10px;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .icon-location {
+    display: none;
+    vertical-align: top;
+    width: 15px;
+    height: 15px;
+    padding-right: 5px;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .icon-location svg {
+    width: 15px;
+    fill: #a4a5a7;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .__name {
+    display: table-cell;
+    vertical-align: top;
+    font-size: 12px;
+    color: #333;
+    margin-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 20px;
+    position: relative;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .__name .__title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .__name a {
+    width: 220px;
+    font-weight: 700;
+    color: #333;
+    float: left;
+}
+
+.listing-info .info-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 6px;
+    float: left;
+    cursor: pointer;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list .listing-info .details .__name .unpaid-mticket-wrapper {
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list>div:not(.payment-options-text) {
+    float: left;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.buyticket-page .showtimes .wrapper .container ul .list>div:not(.payment-options-text) {
+    float: left;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.offer-details-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 8px;
+    cursor: default;
+}
+
+.showtime-pill-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.showtime-pill-container {
+    margin: 8px;
+}
+
+.showtime-pill-container {
+    margin: 8px;
+}
+
+.venue-flags {
+    margin-bottom: 0;
+    padding: 8px 0 0;
+    margin-left: 8px;
+}
+
+.venue-flags .gold-icon {
+    width: 7px;
+    height: 7px;
+    background: #ffc610;
+    border-radius: 50%;
+}
+
+.venue-flags .venue-flags-details {
+    vertical-align: middle;
+    margin: 0 8px;
+    color: #6c6c6c;
+}

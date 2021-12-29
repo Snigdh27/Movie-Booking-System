@@ -1,0 +1,12 @@
+.kFxCKb {
+    color: rgb(255, 255, 255);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 22px;
+    font-size: 39px;
+    font-weight: unset;
+    line-height: 42px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+}

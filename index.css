@@ -1,0 +1,719 @@
+body{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.bFJFiZ {
+    width: 100%;
+    height: 64px;
+    background: rgb(51, 53, 69);
+    padding: 0px;
+}
+
+.fZPqEl {
+    max-width: 1240px;
+    width: 92%;
+    margin: 0px auto;
+    height: 100%;
+}
+
+.dufaWq {
+    display: flex;
+    height: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.fRgSTC {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.dYslJa {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    width: 75%;
+}
+
+.cGzEUR {
+    display: block;
+}
+
+.bOWwtS {
+    display: flex;
+    margin-right: 16px;
+    max-width: 115px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.cEaLQH {
+    width: 100%;
+    overflow: hidden;
+}
+
+.fpdEds {
+    display: flex;
+    flex-flow: row nowrap;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 0px;
+    margin: 65px;
+    opacity: 1;
+    cursor: text;
+    width: calc(100% - 134px);
+    max-width: 549px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.czACfw {
+    width: 39px;
+    height: 34px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.czACfw > svg {
+    width: 13px;
+    height: 13px;
+    margin: 10px 12px;
+}
+
+.bqfntN {
+    width: calc(100% - 50px);
+    border: none;
+    background: white;
+    box-shadow: none;
+    font-size: 14px;
+    color: rgb(153, 153, 153);
+    outline: 0px;
+    max-width: 500px;
+    font-family: 'Kaushan Script', cursive;
+
+}
+
+.fIvCmI {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.hmbjRr {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.hmbjRr:last-child {
+    margin-right: 0px;
+}
+
+.FJiHu {
+    padding: 0px;
+    width: 100%;
+    background: rgb(31, 37, 51);
+}
+
+.hgKsWV {
+    width: 100%;
+    background: rgb(31, 37, 51);
+    padding: 0px;
+}
+
+.fZPqEl {
+    max-width: 1240px;
+    width: 92%;
+    margin: 0px auto;
+    height: 100%;
+}
+
+.dufaWq {
+    display: flex;
+    height: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.dYslJa {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    width: 75%;
+}
+
+.bnmFOW {
+    display: flex;
+    height: 40px;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    background: rgb(34, 37, 57);
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.enDLPt {
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0px 10px;
+    position: relative;
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+
+.dYqNfN {
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0px 10px;
+    position: relative;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(204, 204, 204);
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+
+.PfZLc {
+    font-size: 8px;
+    color: rgb(231, 54, 77);
+    font-weight: 500;
+    position: absolute;
+    right: 0px;
+    bottom: 90%;
+}
+
+.dYqNfN {
+    font-size: 14px;
+    cursor: pointer;
+    padding: 0px 10px;
+    position: relative;
+    text-decoration: none;
+    font-weight: 400;
+    color: rgb(204, 204, 204);
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+}
+
+.dYqNfN:last-child {
+    padding-right: 16px;
+}
+
+.fIvCmI {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    height: 100%;
+}
+
+.fpdEds {
+    display: flex;
+    flex-flow: row nowrap;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 0px;
+    margin: 71px;
+    opacity: 1;
+    cursor: text;
+    width: calc(100% - 134px);
+    max-width: 549px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.bnmFOW {
+    display: flex;
+    height: 40px;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    background: rgb(34, 37, 57);
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.YsyWI {
+    font-size: 12px;
+    cursor: pointer;
+    padding: 0px 12px;
+    text-decoration: none;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.gaXYZj {
+    font-size: 12px;
+    cursor: pointer;
+    padding: 0px 12px;
+    text-decoration: none;
+    transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+
+.gaXYZj:last-child {
+    padding-right: 0px;
+}
+
+.jlISnX.ellipsis {
+    margin-left: 0px
+px
+;
+    max-width: 90px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.bQENkS {
+    color: rgb(255, 255, 255);
+    background-color: rgb(248, 68, 100);
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    font-family: 'Kaushan Script', cursive;
+    width: 67px;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid rgb(248, 68, 100);
+    display: block;
+}
+
+.hGOWBG {
+    margin-left: 24px;
+}
+
+.jlISnX::after {
+    display: block;
+    content: "";
+    position: absolute;
+    inset: -2px 0px 0px;
+    margin: auto 0px auto auto;
+    width: 0px;
+    height: 0px;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid rgb(255, 255, 255);
+}
+
+.jlISnX.ellipsis {
+    margin-left: 0px;
+    max-width: 90px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.hmbjRr {
+    margin-right: 24px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.open-button {
+    background-color: #555;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 280px;
+  }
+  
+  /* The popup form - hidden by default */
+  .form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+  }
+  
+  /* Add styles to the form container */
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  /* Full-width input fields */
+  .form-container input[type=text], .form-container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  /* When the inputs get focus, do something */
+  .form-container input[type=text]:focus, .form-container input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Set a style for the submit/login button */
+  .form-container .btn {
+    background-color: rgb(248, 68, 100);
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+  }
+  
+  /* Add a red background color to the cancel button */
+  .form-container .cancel {
+    background-color: #555;
+  }
+  
+  /* Add some hover effects to buttons */
+  .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+  }
+
+  .gqBECX {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: unset;
+}
+
+.kYYPQD {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.cWbeuJ {
+    display: flex;
+    flex-direction: column;
+}
+
+.lmknRz {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.eQCApE {
+    display: flex;
+    margin: 0px auto 0px 0px;
+}
+
+.eQcIov {
+    position: relative;
+    height: 100%;
+}
+
+.bgaHZL {
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    top: 4px;
+    right: 4px;
+}
+
+.TsmVt {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+
+
+.cWbeuJ {
+    display: flex;
+    flex-direction: column;
+}
+
+.TsmVt img {
+    object-fit: cover;
+    transition: visibility 0s ease 0s, opacity 0.3s linear 0s;
+    opacity: 1;
+    visibility: visible;
+    border-radius: 10px;
+}
+
+.cWbeuJ {
+    display: flex;
+    flex-direction: column;
+}
+
+.bJKnib {
+    margin: 0px 0px 4px;
+    word-break: break-word;
+    color: rgb(0, 0, 0);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.33;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.WfspT {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.kQsZEC {
+    margin: 0px 0px 4px;
+    word-break: break-word;
+    color: rgb(102, 102, 102);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.43;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+a{
+    text-decoration: none;
+}
+
+.cWbeuJ {
+    display: flex;
+    flex-direction: column;
+}
+
+.lmknRz {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.eQCApE {
+    display: flex;
+    margin: 0px auto 0px 0px;
+}
+
+.eQiiBj {
+    text-decoration: none;
+    display: block;
+}
+
+.bgaHZL {
+    display: flex;
+    position: absolute;
+    z-index: 2;
+    top: 4px;
+    right: 4px;
+}
+
+.TsmVt {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.XxsAZ {
+    max-height: 100%;
+    min-height: 100%;
+    max-width: 100%;
+    min-width: 100%;
+    background: rgb(238, 238, 238);
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.WfspT {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.bJKnib {
+    margin: 0px 0px 4px;
+    word-break: break-word;
+    color: rgb(0, 0, 0);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.33;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.kQsZEC {
+    margin: 0px 0px 4px;
+    word-break: break-word;
+    color: rgb(102, 102, 102);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.43;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.eQiiBj {
+    text-decoration: none;
+    display: block;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+
+
+element.style {
+    border-radius: 0px;
+    opacity: 1;
+    transition: all 0.5s ease 0s;
+    width: 84%;
+    min-height: inherit;
+    max-height: inherit;
+}
+
+.WfspT {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.bJKnib {
+    margin: 0px 0px 4px;
+    word-break: break-word;
+    color: rgb(0, 0, 0);
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.33;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.hhkxDl {
+    display: flex;
+    padding: 0px 24px 20px;
+    font-size: 11px;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(51, 51, 56);
+}
+
+.daLgso {
+    padding: 0px;
+    margin: 0px;
+    flex-basis: auto;
+    width: 100%;
+}
+
+.mqFuI {
+    display: flex;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 125px;
+}
+
+.izRfKO {
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+
+.KwZdx {
+    padding: 0px 20px;
+}
+
+embed, img, object {
+    max-width: 100%;
+}
+
+.fjqhyD {
+    text-align: center;
+}
+
+.hflvIy {
+    display: inline-block;
+    margin-right: 10px;
+    width: 37px;
+    height: 37px;
+}
+
+.hflvIy svg {
+    fill: rgb(93, 93, 95);
+}
+
+.bXJjbc {
+    padding: 30px;
+    font-size: 11px;
+    color: rgb(102, 102, 102);
+    text-align: center;
+}
